@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.coodoo</groupId>
   <artifactId>workhorse-ui-api-quarkus-parent</artifactId>
-  <version>2.0.0-RC4-SNAPSHOT</version>
+  <version>2.0.0-RC5-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Workhorse Ui Api Quarkus - Parent</name>
   <modules>
